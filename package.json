@@ -1,9 +1,9 @@
 {
-  "name": "algocast",
+  "name": "js-playgroundt",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/savovsky/algocast.git",
-  "author": "Miroslav <savovsky@gmail.com>",
+  "repository": "https://github.com/savovsky/js-playground.git",
+  "author": "Miroslav Savovski",
   "license": "MIT",
   "scripts": {
     "test": "jest --watch",
